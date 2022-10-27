@@ -5,3 +5,7 @@ body {
 p em {
     stroke: blueviolet;
 }
+
+h1 strong{
+    padding: 30px;
+}
